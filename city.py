@@ -1,0 +1,10 @@
+cities=['Manchester',"Barcelona","Paris","Istanbul","Moscow"]
+print(cities)
+cities.reverse()
+print(cities)
+cities.sort()
+print(cities)
+cities.sort(reverse=True)
+print(cities)
+cities.sort(reverse=False)
+print(cities)
